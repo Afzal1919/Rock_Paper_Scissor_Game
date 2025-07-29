@@ -2,6 +2,10 @@
 
 A simple and interactive **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer, test your luck, and have fun!
 
+## 🔗 Live Demo
+
+👉 [Play Now](https://afzal1919.github.io/Rock_Paper_Scissor_Game/) 👈
+
 ## 🚀 Features
 
 - Play against the computer
@@ -14,7 +18,7 @@ A simple and interactive **Rock-Paper-Scissors** game built using **HTML**, **CS
 
 - **HTML5** – for the structure of the game
 - **CSS3** – for styling and layout
-- **JavaScript (Vanilla JS)** – for game logic and interaction
+- **JavaScript** – for game logic and interaction
 
 ## 🎮 How to Play
 
@@ -23,15 +27,10 @@ A simple and interactive **Rock-Paper-Scissors** game built using **HTML**, **CS
 3. The result will be displayed (Win, Lose, or Draw).
 4. The scores will update automatically.
 
-## 📸 Preview
-
-![Rock Paper Scissors Preview](./preview.png) <!-- replace with your actual image path -->
-
 ## 🧠 Game Rules
 
 - Rock beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
 
-## 📂 Project Structure
 
